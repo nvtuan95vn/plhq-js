@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+    <Ad>
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>i9bet84 Nhà cái uy tín đến từ châu âu</AdTitle>
+            <Description><![CDATA[i9bet84 Nhà cái uy tín đến từ châu âu]]></Description>
+            <Creatives>
+                <Creative>
+                    <Linear >
+                        <Duration>00:00:36</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://www.i9bet84.com/Register?a=22770]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="100%" height="360" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://bf.333xbet.com/18881999/video888.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
