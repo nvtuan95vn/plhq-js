@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="3.0">
+    <Ad>
+        <InLine>
+            <AdSystem>GDFP</AdSystem>
+            <AdTitle>Sun52 - Ông Hoàng Dubai</AdTitle>
+            <Description><![CDATA[Sun52 - Ông Hoàng Dubai]]></Description>
+            <Creatives>
+                <Creative>
+                    <Linear >
+                        <Duration>00:00:31</Duration>
+                        <VideoClicks>
+                            <ClickThrough>
+                                <![CDATA[https://cdn-01.w3img.com/qc.php?id=sun]]>
+                            </ClickThrough>
+                        </VideoClicks>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="100%" height="1080" type="video/mp4" scalable="true" maintainAspectRatio="true"><![CDATA[https://cdn.jsdelivr.net/gh/nvtuan95vn/plhq-js@main/TVC%20SUN52%20text_ghep_1.mp4.mp4]]></MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>
